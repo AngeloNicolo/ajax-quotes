@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>AJAX Quotes</title>
+    <p>This code creates a webpage that uses AJAX to fetch random quotes from a server-side script ("random_quotes.php"), displays them in a hidden container with fading animation and changes font styles from a predefined list of fonts. The quotes are fetched initially on page load and then refreshed every 5 seconds.</p>
     <style>
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tulpen+One&display=swap');
